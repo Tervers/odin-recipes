@@ -1,1 +1,1 @@
-# odin-recipes
+This is the first HTML project presented by The Odin Project. I will be developing my own Recipe website, showcasing my current HTML abilities of displaying text, images, and proper usage of absolute and relative links on a webpage.
